@@ -49,6 +49,15 @@ Stecie_Niyonzima_rl_summative/
 
 ## Running the Simulation
 
+## 🎥 Video Demonstration
+
+[![Inzozi Smart Glasses RL Demo](https://img.youtube.com/vi/UNTYb9CW2g4/0.jpg)](https://youtu.be/UNTYb9CW2g4)
+
+**Watch the full 3‑minute demonstration:**  
+[https://youtu.be/UNTYb9CW2g4](https://youtu.be/UNTYb9CW2g4)
+
+*The video shows both A2C and PPO agents navigating the Kigali environment with live terminal output and Pygame GUI. Camera on, full screen, problem statement, reward explanation, and performance commentary included.*
+
 ### Run best trained model (A2C — highest reward 466.9)
 ```bash
 python main.py
