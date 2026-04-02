@@ -49,7 +49,7 @@ Stecie_Niyonzima_rl_summative/
 
 ## Running the Simulation
 
-## 🎥 Video Demonstration
+##  Video Demonstration
 
 [![Inzozi Smart Glasses RL Demo](https://img.youtube.com/vi/UNTYb9CW2g4/0.jpg)](https://youtu.be/UNTYb9CW2g4)
 
