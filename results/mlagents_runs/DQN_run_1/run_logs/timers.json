@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1774993595",
+        "python_version": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\LENOVO\\Documents\\Stecie_Niyonzima_rl_summative\\venv_unity\\lib\\site-packages\\mlagents\\trainers\\learn.py C:\\Users\\LENOVO\\Documents\\Stecie_Niyonzima_rl_summative\\training\\..\\config\\dqn_config.yaml --run-id=DQN_run_1 --force --results-dir=C:\\Users\\LENOVO\\Documents\\Stecie_Niyonzima_rl_summative\\training\\..\\results\\mlagents_runs",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.11.0+cpu",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1774993662"
+    },
+    "total": 66.76589449999994,
+    "count": 1,
+    "self": 0.012819699999852219,
+    "children": {
+        "run_training.setup": {
+            "total": 0.43541270000002896,
+            "count": 1,
+            "self": 0.43541270000002896
+        },
+        "TrainerController.start_learning": {
+            "total": 66.31766210000006,
+            "count": 1,
+            "self": 0.00032570000007581257,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 66.31731399999995,
+                    "count": 1,
+                    "self": 66.31731399999995
+                },
+                "TrainerController._save_models": {
+                    "total": 2.2400000034394907e-05,
+                    "count": 1,
+                    "self": 2.2400000034394907e-05
+                }
+            }
+        }
+    }
+}

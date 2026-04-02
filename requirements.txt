@@ -1,0 +1,16 @@
+gymnasium>=1.0.0
+stable-baselines3>=2.4.0
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.5.0
+
+numpy>=2.0.0
+pandas>=2.2.0
+
+pygame>=2.6.0
+matplotlib>=3.9.0
+
+pillow>=10.0.0
+
+setuptools>=70.0.0
+wheel
